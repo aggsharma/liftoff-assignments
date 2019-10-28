@@ -24,4 +24,4 @@ Java.SpringBoot.Thymeleaf.HTML/CSS
 I would like to learn more Java skills and JavaScript to build a project like this.
 
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/C5uAAAPA/liftoff-project
