@@ -10,12 +10,17 @@ For this assignment, you will submit a high-level outline of your project. This 
 Include overview here
 ### Features
 .User login: Users will be able to create accounts and log into the application.
-.Trip plan: Users will fill the trip detais. So users will be able to click on each trip and view the details.
+
+.Trip plan: Users will fill the trip details. So users will be able to click on each trip and view the details.
+
 .Reservations page: This page stores confirmation number and date details.
+
 Itinerary page: Will list all information.
 ### Technologies
+
 Java.SpringBoot.Thymeleaf.HTML/CSS
 ### What I'll Have to Learn
+
 I would like to learn more Java skills and JavaScript to build a project like this.
 
 ### Project Tracker
